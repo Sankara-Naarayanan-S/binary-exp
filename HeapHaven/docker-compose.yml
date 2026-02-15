@@ -1,0 +1,7 @@
+version: '3'
+services:
+  heap_haven:
+    build: .
+    ports:
+      - "1337:1337"
+    restart: always

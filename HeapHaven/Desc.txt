@@ -1,0 +1,12 @@
+=== Heap Haven ===
+
+Welcome to Heap Haven, a secure memory management system!
+We've implemented the latest protections to keep your data safe.
+Can you prove our system isn't as secure as we think?
+
+Connection: nc heaphaven.ctf 1337
+
+Author: Agyaani & OddenSign ;) 
+
+All the Best !!! 
+
